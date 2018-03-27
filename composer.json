@@ -12,10 +12,10 @@
     "prefer-stable": true,
     "require": {
         "php": ">=7.0.0",
-        "diablomedia/zendframework1-controller": "*",
+        "diablomedia/zendframework1-controller": "^1.0.0",
         "diablomedia/zendframework1-json": "^1.0.0",
-        "diablomedia/zendframework1-layout": "*",
-        "diablomedia/zendframework1-view": "*"
+        "diablomedia/zendframework1-layout": "^1.0.0",
+        "diablomedia/zendframework1-view": "^1.0.0"
     },
     "autoload": {
         "psr-0": {
