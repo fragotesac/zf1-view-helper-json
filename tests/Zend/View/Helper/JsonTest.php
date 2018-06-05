@@ -44,7 +44,7 @@ class Zend_View_Helper_JsonTest extends PHPUnit\Framework\TestCase
     {
         Zend_View_Helper_JsonTest_Layout::resetMvcInstance();
 
-        $this->response = new Zend_Controller_Response_Http();
+        $this->response                             = new Zend_Controller_Response_Http();
         $this->response->headersSentThrowsException = false;
 
         $front = Zend_Controller_Front::getInstance();
