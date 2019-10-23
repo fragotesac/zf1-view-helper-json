@@ -1,4 +1,4 @@
-Zend Framework 1 - View_View_Helper_Json
+Zend Framework 1 - View_Helper_Json
 ============================
 [![Build Status](https://travis-ci.org/diablomedia/zf1-view-helper-json.svg?branch=master)](https://travis-ci.org/diablomedia/zf1-view-helper-json)
 [![codecov](https://codecov.io/gh/diablomedia/zf1-view-helper-json/branch/master/graph/badge.svg)](https://codecov.io/gh/diablomedia/zf1-view-helper-json)
