@@ -1,6 +1,6 @@
 Zend Framework 1 - View_Helper_Json
 ============================
-[![Build Status](https://travis-ci.org/diablomedia/zf1-view-helper-json.svg?branch=master)](https://travis-ci.org/diablomedia/zf1-view-helper-json)
+[![Build Status](https://travis-ci.com/diablomedia/zf1-view-helper-json.svg?branch=master)](https://travis-ci.com/diablomedia/zf1-view-helper-json)
 [![codecov](https://codecov.io/gh/diablomedia/zf1-view-helper-json/branch/master/graph/badge.svg)](https://codecov.io/gh/diablomedia/zf1-view-helper-json)
 [![Latest Stable Version](https://poser.pugx.org/diablomedia/zendframework1-view-helper-json/v/stable)](https://packagist.org/packages/diablomedia/zendframework1-view-helper-json)
 [![Total Downloads](https://poser.pugx.org/diablomedia/zendframework1-view-helper-json/downloads)](https://packagist.org/packages/diablomedia/zendframework1-view-helper-json)
