@@ -40,7 +40,7 @@ class Zend_View_Helper_JsonTest extends PHPUnit\Framework\TestCase
      *
      * @return void
      */
-    public function setUp()
+    public function setUp(): void
     {
         Zend_View_Helper_JsonTest_Layout::resetMvcInstance();
 
@@ -60,7 +60,7 @@ class Zend_View_Helper_JsonTest extends PHPUnit\Framework\TestCase
      *
      * @return void
      */
-    public function tearDown()
+    public function tearDown(): void
     {
     }
 
@@ -102,7 +102,7 @@ class Zend_View_Helper_JsonTest extends PHPUnit\Framework\TestCase
     public function testJsonHelperReturnsJsonEncodedString()
     {
         $data = $this->helper->json(array('foobar'));
-        $this->assertInternalType('string', $data);
+        $this->assertIsString($data);
         $this->assertEquals(array('foobar'), Zend_Json::decode($data));
     }
 
