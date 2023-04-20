@@ -34,6 +34,9 @@
  */
 class Zend_View_Helper_JsonTest extends PHPUnit\Framework\TestCase
 {
+    protected $helper;
+    protected $response;
+
     /**
      * Sets up the fixture, for example, open a network connection.
      * This method is called before a test is executed.
